@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/victo/OneDrive/Desktop/cart-shopping/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
